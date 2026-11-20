@@ -1,0 +1,14 @@
+tensorflow>=2.16
+numpy<2
+opencv-python-headless
+mediapipe
+pandas
+openpyxl
+scikit-learn
+matplotlib
+tqdm
+gTTS
+arabic-reshaper
+python-bidi
+streamlit
+jupyter
